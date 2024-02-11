@@ -1,4 +1,7 @@
 title: Parisa Saharkhiz
+description: Global Englishes
 logo: /assets/img/headshot_circle.png
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
